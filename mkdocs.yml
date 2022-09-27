@@ -1,0 +1,9 @@
+site_name: sreeranj
+site_url: https://sreeranj2021.github.io/mkdoctest/
+repo_url: https://github.com/sreeranj2021/mkdoctest.git
+repo_name: sreeranj2021/mkdoctest
+
+nav:
+    - Home: index.md
+    - Page2: page2.md
+theme: readthedocs
